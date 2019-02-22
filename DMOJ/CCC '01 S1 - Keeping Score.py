@@ -2,6 +2,7 @@ import sys
 input = sys.stdin.readline
 
 # I didn't use lists/dictionaries because Andrew claimed his code was faster
+#ur supposed to use dict u nigger respect my boy cordiner
 # So I had to outclass him and not use lists/dictionaries at all.
 
 score = 0 # row score
